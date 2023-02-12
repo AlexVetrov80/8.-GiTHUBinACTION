@@ -54,7 +54,6 @@
                             </goals>
                             <configuration>
                                 <rules>
-                                    <element>BUNDLE</element>
                                     <rule>
                                         <limits>
                                             <limit>
